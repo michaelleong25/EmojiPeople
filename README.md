@@ -1,5 +1,5 @@
 # EmojiPeopleTwitterBot
-Twitter bot that generates random emoji people
+Twitter bot that generates random emoji people.
 
 ![](img/page.png)
 
