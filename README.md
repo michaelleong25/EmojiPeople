@@ -1,5 +1,5 @@
 # EmojiPeopleTwitterBot
-Twitter bot that generates random emoji people.
+Tweets a person made out of random emojis.
 
 ![](img/page.png)
 
