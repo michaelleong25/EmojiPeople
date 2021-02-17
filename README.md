@@ -1,4 +1,4 @@
-# EmojiPeopleTwitterBot
+# EmojiPeople
 Tweets a person made out of random emojis.
 
 ![](img/page.png)
